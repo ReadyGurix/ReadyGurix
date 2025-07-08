@@ -9,7 +9,7 @@ I'm a junior software developer currently studying a VET/Higher Technician cours
     Python, HTML, CSS, PHP, and SQL
 
     🚀 Planning to explore:
-    JavaScript, Node.js, C++, and Dart
+    Java, JavaScript, C++, and Dart
 
     🤓 Always open to learning and improving my skills
 
