@@ -8,8 +8,8 @@ I’m currently learning and improving my knowledge about system security, hardw
 ## 💻 About Me
 
 * 🎯 I’m really interested in **coding, computer hardware, AI technologies**, and **Unix-based operating systems**.
-* 📚 **Currently learning:** Python, HTML, CSS, PHP, and SQL.
-* 🚀 **Planning to explore:** Java, JavaScript, C++, and Dart.
+* 📚 **Currently learning:** Python, HTML, CSS, and JavaScript.
+* 🚀 **Planning to explore:** Java, C++, and Dart.
 * 🤓 I like to understand how things actually work, not just use them — always trying to learn new things and get better at what I do.
 
 ---
